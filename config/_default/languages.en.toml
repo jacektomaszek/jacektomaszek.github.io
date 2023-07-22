@@ -10,7 +10,7 @@ title = "Jacek Tomaszek"
   displayName = "EN"
   rtl = false
 
-  dateFormat = "2 January 2006"
+  dateFormat = "2006-01-02"
 
   # mainSections = ["section1", "section2"]
   # description = "My awesome website"
